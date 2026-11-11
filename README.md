@@ -69,8 +69,7 @@ Hash load factor after all inserts: 0.85
 
 
 
-![Output](output.png)
-
+![Output](1000112380.jpg)
 
 
 ---
